@@ -32,22 +32,22 @@ body {
 }
 
 .red {
-  background-image: url("images/세준.jpg");
+  background-image: url(".images/세준.jpg");
   background-size: 200px 200px;
 }
 
 .green {
-  background-image: url("images/성윤.jpg");
+  background-image: url(".images/성윤.jpg");
   background-size: 200px 200px;
 }
 
 .blue {
-  background-image: url("images/세현.jpg");
+  background-image: url(".images/세현.jpg");
   background-size: 200px 200px;
 }
 
 .yellow {
-  background-image: url("images/성하.jpg");
+  background-image: url(".images/성하.jpg");
   background-size: 200px 200px;
 }
 
