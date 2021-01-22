@@ -44,6 +44,7 @@ body {
 .blue {
   background-image: url("images/sehyun.jpg");
   background-size: 200px 200px;
+  background-color: "white";
 }
 
 .yellow {
