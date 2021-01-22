@@ -37,7 +37,7 @@ function checkAnswer(currentLevel) {
     } else {
       playSound("wrong");
       $("body").addClass("game-over");
-      $("#level-title").text("Game Over, 여기누르면 다시 시작");
+      $("#level-title").text("Level "+level+"에서 Game Over, 여기누르면 다시 시작");
 
       setTimeout(function () {
         $("body").removeClass("game-over");
