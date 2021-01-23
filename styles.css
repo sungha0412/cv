@@ -32,23 +32,23 @@ body {
 }
 
 .red {
-  background-image: url("images/sejoon.jpg");
+  background-image: url("images/1.jpg");
   background-size: 200px 200px;
 }
 
 .green {
-  background-image: url("images/sungyoon.jpg");
+  background-image: url("images/2.jpg");
   background-size: 200px 200px;
 }
 
 .blue {
-  background-image: url("images/sehyun.jpg");
+  background-image: url("images/3.png");
   background-size: 200px 200px;
   background-color: "white";
 }
 
 .yellow {
-  background-image: url("images/sungha3.jpg");
+  background-image: url("images/4.jpg");
   background-size: 200px 200px;
 }
 
